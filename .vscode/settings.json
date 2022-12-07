@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "c:\\Users\\murilo.ferreira\\Documents\\PythonProject\\venv\\Scripts\\python.exe",
+    "code-runner.executorMap": {
+        "python": "c:\\Users\\murilo.ferreira\\Documents\\PythonProject\\venv\\Scripts\\python.exe",      
+    },
+    "python.formatting.provider": "black"
+}
